@@ -1,0 +1,2 @@
+# DicApp
+vocabulary collections
